@@ -71,23 +71,6 @@ Ensure you have the following installed on your machine:
 - [Node.js](https://nodejs.org/en) (v16 or later)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
-### Cloning the Repository
-
-```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/giddy.git
-cd giddy
-
-## 🤸 Installation
-
-Follow these steps to install and set up the project locally:
-
-### Prerequisites
-
-Ensure you have the following installed on your machine:
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en) (v16 or later)
-- [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
 ### Cloning the Repository
 
