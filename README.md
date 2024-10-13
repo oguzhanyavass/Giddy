@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <a href="https://youtu.be/kmy_YNhl0mw" target="_blank">
-    <img src="[https://i.ibb.co/Bf04Hpd/Readme-thumbnail-from-JS-Mastery.png](https://i.ibb.co/yRggH6R/Giddy-Mobile-App.png)" alt="Project Banner">
+    <img src="https://i.ibb.co/yRggH6R/Giddy-Mobile-App.png" alt="Project Banner">
   </a>
   <br />
 
