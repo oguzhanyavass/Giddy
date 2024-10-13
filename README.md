@@ -75,5 +75,5 @@ Ensure you have the following installed on your machine:
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/giddy.git
-cd giddy
+git clone https://github.com/oguzhanyavass/Giddy.git
+cd Giddy
